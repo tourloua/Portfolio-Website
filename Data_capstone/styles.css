@@ -3,20 +3,21 @@ body {
     margin: 0;
     padding: 0;
     font-family: 'Fredoka', sans-serif;
-    min-height: 100vh; /* Set a minimum height for the body */
-    overflow-y: auto; /* Enable vertical scrolling */
+    min-height: 100vh;
+    overflow-y: auto;
 }
+
 .centered-video {
-    width: 50vw; /* Half of the viewport width */
-    height: 50vh; /* Half of the viewport height */
-    margin: 0 25vw 0; /* Centered horizontally at the top */
+    width: 50vw;
+    height: 50vh;
+    margin: 0 25vw 0;
 }
 
 .centered-text {
-    position: relative; /* Change position to relative */
+    position: relative;
     width: 50%;
-    margin: 0 auto; /* Center the text horizontally */
-    text-align: center;
+    margin: 0 auto;
+    text-align: left;
     color: #faf9bb;
     font-family: 'Fredoka', sans-serif;
     padding: 20px;
@@ -83,4 +84,8 @@ body {
     transform: translateY(100vh);
 }
 
-
+.added-text {
+    color: #faf9bb;
+    margin-top: 10px;
+    text-align: left;
+}
