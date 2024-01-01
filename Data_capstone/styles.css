@@ -81,7 +81,7 @@ body {
 }
 
 .word-moved-down {
-    transform: translateY(100vh);
+    transform: translateY(3vh); /* Default value for other words */
 }
 
 .added-text {
@@ -89,3 +89,11 @@ body {
     margin-top: 10px;
     text-align: left;
 }
+
+.added-image img {
+    width: 100%; /* Ensure the image takes the full width */
+    margin-top: 10px;
+    border-radius: 8px; /* Optional: Add border-radius to the image */
+}
+
+
