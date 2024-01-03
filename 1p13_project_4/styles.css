@@ -1,0 +1,13 @@
+.back-text {
+    position: fixed;
+    top: -1vw;
+    left: 0.2%;
+    font-size: 2vw;
+    font-family: 'Fredoka', sans-serif;
+    color: #faf9bb;
+    cursor: pointer;
+}
+
+.back-text:hover {
+    color: white;
+}
