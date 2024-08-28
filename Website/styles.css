@@ -29,7 +29,7 @@ body {
 
 .additional-text {
     position: absolute;
-    top: 37%;
+    top: 45%;
     left: 50%;
     transform: translate(-50%, -50%);
     text-align: center;
@@ -41,7 +41,7 @@ body {
 
 .info-table {
     position: absolute;
-    top: 33%;
+    top: 45%;
     left: 7.5%;
     width: 85%;
     margin: 10% auto 0;
