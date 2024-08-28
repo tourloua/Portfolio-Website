@@ -11,9 +11,9 @@ document.addEventListener('DOMContentLoaded', function () {
                 case 'ENGINEER 1P13 Final Project':
                     window.location.href = 'https://tourloua.github.io/1p13capstone/';
                     break;
-                    case 'Solar Tracker Project':
-                        window.location.href = 'https://tourloua.github.io/Solar-Tracker/';
-                        break;
+                case 'Solar Tracker Project':
+                    window.location.href = 'https://tourloua.github.io/Solar-Tracker/';
+                    break;
 
             }
         }
